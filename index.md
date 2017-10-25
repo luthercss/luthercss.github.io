@@ -1,6 +1,4 @@
-# Welcome to Luther College's Computer Science Society.
-
-## Hackathon
+## Fall Hackathon
 
 * November 4th, 2017
 * Olin 202
