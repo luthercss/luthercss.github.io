@@ -3,7 +3,7 @@
 * November 4th, 2017
 * Olin 202
 * 8am - 8pm (coding)
-* 8pm - 9pm (presentations)
+* 8pm - 9pm (demos)
 
 You can sign up for the Hackathon [here](https://docs.google.com/spreadsheets/d/1uSuxv8KBx-qhoHcG7B4qhHZL9Zd4ewcKo8KVsUaNuUQ/edit).
 
