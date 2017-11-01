@@ -7,6 +7,8 @@
 
 You can sign up for the Hackathon [here](https://docs.google.com/spreadsheets/d/1uSuxv8KBx-qhoHcG7B4qhHZL9Zd4ewcKo8KVsUaNuUQ/edit).
 
+We will be giving out some cool prizes, including t-shirts, water bottles, travel mugs, etc.
+
 ### Preparations
 * [Flask](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
 * [Heroku](https://www.youtube.com/watch?v=skc-ZEU9kO8)
