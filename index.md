@@ -10,6 +10,7 @@ You can sign up for the Hackathon [here](https://docs.google.com/spreadsheets/d/
 We will be giving out some cool prizes, including t-shirts, water bottles, travel mugs, etc.
 
 ### Preparations
+* Flask and Heroku boilerplate and instructions: [here](https://github.com/alexanderldavis/Hackathon2017HerokuTutorial)
 * [Flask](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
 * [Heroku](https://www.youtube.com/watch?v=skc-ZEU9kO8)
 * [API's for Python](http://www.pythonforbeginners.com/api/list-of-python-apis)
