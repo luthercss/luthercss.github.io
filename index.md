@@ -1,9 +1,5 @@
-
-### Hackathon prep
-* Flask and Heroku boilerplate and instructions: [here](https://github.com/alexanderldavis/Hackathon2017HerokuTutorial)
-* [Flask](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
-* [Heroku](https://www.youtube.com/watch?v=skc-ZEU9kO8)
-* [API's for Python](http://www.pythonforbeginners.com/api/list-of-python-apis)
+## 2018-2019 Election Information
+If you are interested in running for a position on the executive board for CSS, read more about the open positions and process [here](https://docs.google.com/document/d/1RoN5n2dkf8VjmA102p6oGfY6iSBjPzlSJsmfjkEYlHI/edit?usp=sharing)
 
 ## Calendar
 Luther students can find our meeting calendar [here](https://calendar.google.com/calendar/embed?src=luther.edu_81i8tmkhkeafp278etjdao7c3c%40group.calendar.google.com&ctz=America/Chicago).
