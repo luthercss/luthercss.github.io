@@ -9,8 +9,8 @@ Tenative:
 * 2/20- Alexa workshop- starring James
 * 2/27- Personal Website Builder Part II: Bootstrap 
 * 3/06- Interview Prep series: Technical Interview
-* 3/13- Personal Website Builder Part III: Database/SQL Contact Me Form
-* 3/20- Working time on personal website
+* 3/13- Working time on personal website
+* 3/20- Personal Website Builder Part III: Database/SQL Contact Me Form
 * 3/27- SPRING BREAK!
 * 4/03- Unit testing and Travis CI (if time permits)
 * 4/10- Interview prep series: Introduction to Agile methodology 
