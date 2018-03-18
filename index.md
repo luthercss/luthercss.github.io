@@ -22,13 +22,20 @@ Luther students can find our meeting calendar [here](https://calendar.google.com
 
 ## 2017-2018 Executive Board
 President: Aaron Herman
+
 Vice President: Alexander Davis
+
 Secretary: Linh Nguyen
+
 Treasurer: Kyle Miller
+
 Girls Who Code liason: Taylor Gades
 
 ## New 2018-2019 Executive Board!
 President: Alexander Davis
+
 Vice President: James Miller
+
 Secretary: Swopnil Shrestha
+
 Treasurer: Kari Hoff
