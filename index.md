@@ -2,7 +2,7 @@
 
 
 ## Calendar
-Luther students can find our meeting calendar [here](https://calendar.google.com/calendar/embed?src=luther.edu_81i8tmkhkeafp278etjdao7c3c%40group.calendar.google.com&ctz=America/Chicago).
+Luther students can find our meeting calendar [here](https://calendar.google.com/calendar/embed?src=css%40luther.edu&ctz=America%2FChicago).
 
 
 - [x] 2/13- Personal Website Builder Part I: Flask/Heroku - Barebones Template 
@@ -10,8 +10,8 @@ Luther students can find our meeting calendar [here](https://calendar.google.com
 - [x] 2/27- Personal Website Builder Part II: Bootstrap 
 - [x] 3/06- Interview Prep series: Technical Interview
 - [x] 3/13- Working time on personal website
-- [ ] 3/20- Personal Website Builder Part III: Database/SQL Contact Me Form
-- [ ] 3/27- SPRING BREAK!
+- [x] 3/20- Personal Website Builder Part III: Database/SQL Contact Me Form
+- [x] 3/27- SPRING BREAK!
 - [ ] 4/03- Unit testing and Travis CI (if time permits)
 - [ ] 4/10- Interview prep series: Introduction to Agile methodology 
 - [ ] 4/17- Unit testing, part II 
