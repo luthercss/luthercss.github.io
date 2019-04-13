@@ -5,10 +5,22 @@
     <link>http://www.luthercss.github.io/docs/</link>
     <description>Recent content in Docs on Computer Science Society</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.luthercss.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Computer Science Society Hackathon!</title>
+      <link>http://www.luthercss.github.io/docs/hackathon/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.luthercss.github.io/docs/hackathon/</guid>
+      <description>Welcome to the Luther College Computer Science Society Hackathon!
+Please accomodate yourslef to the hackathon rules and the recources below.
+This is a reminder that the 2nd CSS Hackathon will kickoff tomorrow, April 13th at 10AM in Olin 202. This is a great opportunity for you to gain experience working in teams and get projects/experiences under your resume.
+Please arrive by 10AM and you can choose to join a team, form your own team or work individually on a project.</description>
+    </item>
     
     <item>
       <title>Hackathon Sunday April 13th</title>
