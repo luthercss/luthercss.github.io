@@ -6,13 +6,16 @@
     <title>ACM Luther College</title>
     <link rel="stylesheet" href="static/css/style.css" />
     <link rel="stylesheet" href="static/css/bootstrap.min.css" />
-    <link rel="shortcut icon" type="image/ico" href="static/images/favicon.ico"/>
-
+    <link
+      rel="shortcut icon"
+      type="image/ico"
+      href="static/images/favicon.ico"
+    />
   </head>
   <body>
     <div id="main">
       <nav class="navbar navbar-expand-sm">
-        <ul class="navbar-nav ml-auto  " style="border-radius: 8px;">
+        <ul class="navbar-nav ml-auto" style="border-radius: 8px">
           <li class="nav-item">
             <a class="nav-link" href="blog"> Blog </a>
           </li>
@@ -23,38 +26,41 @@
             <a class="nav-link" href="/members.html"> Members </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://linkedin.com/company/luthercss"> LinkedIn </a>
+            <a class="nav-link" href="https://linkedin.com/company/luthercss">
+              LinkedIn
+            </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://github.com/luthercss"> GitHub </a>
           </li>
         </ul>
       </nav>
-      <div class=" center">
-        <div class="container">
-            <h2>Events</h2>
-            <p>The CSS usually holds an event every two weeks. These can be social, informational or skill based events. Subscribe to our calendar to get updates to our events. In addition to the calendar, you can also join our <a href="https://luthercs.slack.com/archives/C6Z17T3CK">Slack Channel</a> for frequent updates.</p>
+      <div class="container">
+        <div class="col-md-10">
+          <h2>Events</h2>
+          <p>
+            The CSS usually holds an event every two weeks. These can be social,
+            informational or skill based events. Subscribe to our calendar to
+            get updates to our events. In addition to the calendar, you can also
+            join our
+            <a href="https://luthercs.slack.com/archives/C6Z17T3CK"
+              >Slack Channel</a
+            >
+            for frequent updates.
+          </p>
+          <hr />
         </div>
-        <hr>
-        <div>
-            <iframe src="https://calendar.google.com/calendar/embed?height=480&amp;wkst=1&amp;bgcolor=%23009688&amp;ctz=America%2FChicago&amp;src=Y3NzQGx1dGhlci5lZHU&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK" style="border:solid 1px #777" width="640" height="480" frameborder="0" scrolling="no"></iframe>
+        <div class="col-md-8">
+          <iframe
+            src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;src=Y3NzQGx1dGhlci5lZHU&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=0&amp;showDate=1&amp;showNav=1"
+            style=""
+            width="100%"
+            height="600"
+            frameborder="0"
+            scrolling="no"
+          ></iframe>
+        </div>
       </div>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.topology.min.js"></script>
-    <script>
-      VANTA.TOPOLOGY({
-        el: "#main",
-        mouseControls: false,
-        touchControls: false,
-        gyroControls: false,
-        minHeight: 200.0,
-        minWidth: 200.0,
-        scale: 1.0,
-        scaleMobile: 1.0,
-        color: 0x8ed2d2,
-        backgroundColor: 0xffffff,
-      });
-    </script>
   </body>
 </html>
